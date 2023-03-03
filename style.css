@@ -1,0 +1,17 @@
+#fundo{
+    background-image: url(fundo.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color:white;
+    font-size: 25px;
+    font-family: 'Comic Sans Ms';
+}
+
+#myCanvas{
+    background-color: white;
+    border-style: ridge;
+    border-width: 10px;
+    border-color: blueviolet;
+    border-radius: 10px;
+}
